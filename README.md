@@ -1,4 +1,5 @@
 [![JavaScript CI with npm](https://github.com/Melliim/webtech-proj-frontend-x/actions/workflows/npm.yml/badge.svg)](https://github.com/Melliim/webtech-proj-frontend-x/actions/workflows/npm.yml)
+
 # webtech-proj-frontend-x
 
 ## Project setup
